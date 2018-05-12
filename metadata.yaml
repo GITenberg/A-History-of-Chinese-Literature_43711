@@ -1,0 +1,31 @@
+_repo: A-History-of-Chinese-Literature_43711
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43711-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Giles, Herbert Allen
+    aliases:
+    - Giles, Herbert A.
+    - Giles, H. A. (Herbert Allen)
+    birthdate: 1845
+    deathdate: 1935
+    gutenberg_agent_id: '814'
+    url: http://www.gutenberg.org/2009/agents/814
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Giles
+description: ''
+gutenberg_issued: '2013-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43711'
+  lccn: '29016524'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese literature -- History and criticism'
+- !lcc 'PL'
+title: A History of Chinese Literature
+url: http://www.gutenberg.org/ebooks/43711
